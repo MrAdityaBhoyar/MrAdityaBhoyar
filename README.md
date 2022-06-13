@@ -3,6 +3,6 @@
 - 🌏 I’m Born and Living in India 🇮🇳
 - 😁 I’m a 19 year old Collage Student
 - 🌱 I’m currently learning C and C++
-- 📫 How to reach me: ... @AdityaBhoyarr
+- 📫 How to reach me: ...[@AdityaBhoyarr](https://twitter.com/AdityaBhoyarr)
 - 😄 Pronouns: ... He/Him
 
