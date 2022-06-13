@@ -1,4 +1,4 @@
-### Hi, my name is Lewis! 👋
+### Hi, my name is Adi! 👋
 
 <!--
 **MrAdityaBhoyar/MrAdityaBhoyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
