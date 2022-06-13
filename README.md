@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Adi!</h1>
 
-- 🔭  **I’m Born and Living in India 🇮🇳**
+- 🔭  **I’m Born and Living in India ** 
 
 - 😁 **I’m a 19 year old Collage Student**
 
