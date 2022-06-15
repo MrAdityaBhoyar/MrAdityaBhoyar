@@ -4,6 +4,10 @@
     <b>I'm Adi, a developer passionate about this amazing world of technology.</b>
 </p>
 
+<p align="center">
+    Welcome to my GitHub, here you will find my projects and my collaborations for the open source world.
+</p>
+
 - 🔭 **I’m Born and Living in India**
 
 - 😁 **I’m a 19 year old Collage Student**
