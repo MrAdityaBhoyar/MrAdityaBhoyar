@@ -1,6 +1,6 @@
 <img src =  "https://cdn.discordapp.com/attachments/916010696406347776/986556875736760370/Layer_1.png">
-<h1 align="center">Hi there👋</h1>
-<p align="center">Your content</p>
+<h1 align="center">Hi, there👋</h1>
+<p align="center">**Your content**</p>
 
 - 🔭 **I’m Born and Living in India**
 
