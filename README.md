@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-    <i>You can find me:</i>
+    <i> <b> You can find me:</b></i>
     <br/><br/>
-    <a href=https://twitter.com/AdityaBhoyarr" target="_blank">
-        <img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />
+    <a href=https://twitter.com/AdityaBhoyarr>
+        <img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" />
     </a>
 </p>
 
