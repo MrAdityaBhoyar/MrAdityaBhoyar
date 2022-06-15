@@ -3,7 +3,7 @@
 <p align="center">
     <b>I'm Adi, a developer passionate about this amazing world of technology. Welcome to my GitHub, here you will find my projects and my collaborations for the open source world.</b>
 </p>
-
+---
 <details>
     <summary>More about me</summary>
    <li>🔭 I’m Born and Living in India</li>
