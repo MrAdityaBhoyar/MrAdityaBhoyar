@@ -9,16 +9,10 @@
 </p>
 
 <p align="center">
-    <i>You can find me or contact me through these networks:</i>
+    <i>You can find me:</i>
     <br/><br/>
-    <a href="https://www.linkedin.com/in/matheusfelipeog" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" />
-    </a>
-    <a href="https://www.instagram.com/matheusfelipeog/" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-0A0A0B?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" />
-    </a>
-    <a href="https://twitter.com/matheusfelipeog" target="_blank">
-        <img src="https://img.shields.io/badge/-Twitter-0A0A0B?logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter Badge" />
+    <a href=https://twitter.com/AdityaBhoyarr" target="_blank">
+        <img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />
     </a>
 </p>
 
