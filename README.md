@@ -8,13 +8,7 @@
     Welcome to my GitHub, here you will find my projects and my collaborations for the open source world.
 </p>
 
-<p align="center">
-    <i> <b> You can find me:</b></i>
-    <br/><br/>
-    <a href=https://twitter.com/intent/follow?screen_name=AdityaBhoyarr>
-        <img src="https://www.freeiconspng.com/thumbs/twitter-icon/twitter-icon-download-18.png" />
-    </a>
-</p>
+
 
 - 🔭 **I’m Born and Living in India**
 
