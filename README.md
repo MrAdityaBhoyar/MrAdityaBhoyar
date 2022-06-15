@@ -11,7 +11,7 @@
 <p align="center">
     <i> <b> You can find me:</b></i>
     <br/><br/>
-    <a href=https://twitter.com/AdityaBhoyarr>
+    <a href=https://twitter.com/intent/follow?screen_name=AdityaBhoyarr>
         <img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" />
     </a>
 </p>
