@@ -6,7 +6,7 @@
 
 <details>
     <summary>More about me</summary>
-   🔭 I’m Born and Living in India
+   -🔭 I’m Born and Living in India
    😁 I’m a 19 year old Collage Student
    🎯 Contribute and create open source projects
    🌱 I’m currently learning C |C++| Web Devlopment | Game Devlopment
