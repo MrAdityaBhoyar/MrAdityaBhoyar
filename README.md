@@ -18,10 +18,7 @@
 
 <details>
     <summary>More about me</summary>
-    <p>
-        I'm a self-taught student, introverted and very observant. <br />
-        I'm currently contributing to the open source world to put into practice the knowledge acquired in my studies. I also help the guys who are starting programming in the communities.
-    </p>
+    
     <ul>
         <li>🎓 Technician in System Development by ETEC</li>
         <li>🎯 Contribute and create open source projects</li>
