@@ -1,11 +1,11 @@
 <img src =  "https://cdn.discordapp.com/attachments/916010696406347776/986563245529763880/topo_readme-svg_1.png">
 <h1 align="center">Hi, there👋</h1>
 <p align="center">
-    <b>I'm Adi, a developer passionate about this amazing world of technology.</b>
+    <b>I'm Adi, a developer passionate about this amazing world of technology. Welcome to my GitHub, here you will find my projects and my collaborations for the open source world.</b>
 </p>
 
 <p align="center">
-    Welcome to my GitHub, here you will find my projects and my collaborations for the open source world.
+   
 </p>
 
 
