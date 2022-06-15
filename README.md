@@ -8,11 +8,11 @@
     <summary>More about me</summary>
    
     
-        <li><b>🔭 I’m Born and Living in India</b></li>
-        <li><b>😁 I’m a 19 year old Collage Student</b></li>
-        <li><b>🎯 Contribute and create open source projects</b></li>
-        <li><b>🌱 I’m currently learning C |C++| Web Devlopment | Game Devlopment</b> </li>
-        <li><b>😄 Pronouns: He/Him</b></li>
+        🔭 I’m Born and Living in India</b></li>
+       😁 I’m a 19 year old Collage Student</b></li>
+       🎯 Contribute and create open source projects</b></li>
+       🌱 I’m currently learning C |C++| Web Devlopment | Game Devlopment</b> </li>
+       😄 Pronouns: He/Him</b></li>
     
 </details>
 
