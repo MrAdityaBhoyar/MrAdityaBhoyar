@@ -7,10 +7,10 @@
 <details>
     <summary>More about me</summary>
    <li>🔭 I’m Born and Living in India</li>
-   😁 I’m a 19 year old Collage Student
-   🎯 Contribute and create open source projects
-   🌱 I’m currently learning C |C++| Web Devlopment | Game Devlopment
-   😄 Pronouns: He/Him
+   <li>😁 I’m a 19 year old Collage Student</li>
+   <li>🎯 Contribute and create open source projects</li></li></li>
+   <li>🌱 I’m currently learning C |C++| Web Devlopment | Game Devlopment</li></li>
+   <li>😄 Pronouns: <b>He/Him</b></li>
     
 </details>
 
