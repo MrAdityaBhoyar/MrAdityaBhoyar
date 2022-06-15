@@ -18,7 +18,9 @@
 
 <details>
     <summary>More about me</summary>
-    
+    <p>
+       
+    </p>
     <ul>
         <li>🎓 Technician in System Development by ETEC</li>
         <li>🎯 Contribute and create open source projects</li>
