@@ -1,6 +1,5 @@
 <h1 align="center"><img src =  "https://cdn.discordapp.com/attachments/916010696406347776/986556875736760370/Layer_1.png"></h1>
 
-##
 
 <h1 align="center">Hi there👋, I'm Adi!</h1>
 
